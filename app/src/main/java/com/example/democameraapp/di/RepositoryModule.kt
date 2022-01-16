@@ -20,7 +20,7 @@ class RepositoryModule {
 
     @Singleton
     @Provides
-    fun provideWeatherApi(@Named("retrofit") retrofit: Retrofit): ApiService {
+    fun provideApi(@Named("retrofit") retrofit: Retrofit): ApiService {
         return retrofit.create(ApiService::class.java)
     }
 

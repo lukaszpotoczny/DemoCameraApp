@@ -10,5 +10,4 @@ object AppConst {
     const val COOKIES_KEY = "cookies"
 
     const val BUNDLE_CAMERA_KEY = "camera"
-
 }
