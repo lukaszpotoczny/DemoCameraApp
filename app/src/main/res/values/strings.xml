@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoCameraApp</string>
+
+    <string name="fragment_login_welcome">Welcome to DemoCameraApp</string>
+    <string name="fragment_login_continue">Press Sing In button to continue</string>
+    <string name="fragment_login_sign_in">Sign In</string>
+
+    <string name="fragment_cameras_list_title">Available devices:</string>
+
+    <string name="fragment_details_id">ID:</string>
+    <string name="fragment_details_name">Name:</string>
+    <string name="fragment_details_type">Type:</string>
+    <string name="fragment_details_serial_number">Serial Number:</string>
+    <string name="fragment_details_ip">IP:</string>
+</resources>
